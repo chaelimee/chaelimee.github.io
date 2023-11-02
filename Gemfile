@@ -1,6 +1,4 @@
-source "http://rubygems.org"
+# frozen_string_literal: true
 
-
-gem "Monos"
-gem "kramdown-parser-gfm"
-gem 'github-pages'
+source "https://rubygems.org"
+gemspec
