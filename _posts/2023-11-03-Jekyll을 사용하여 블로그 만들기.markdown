@@ -38,9 +38,11 @@ categories: jekyll update
 <br/><br/>
 
 4. Gemfile에 다음과 같이 테마 추가
-<br/><br/>
 
+ Gem "테마명"
+<br/><br/>
 5. Bundler로 테마 설치
+bundle install
 <br/><br/>
 
 6. _config.yml에 테마 적용
