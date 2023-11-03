@@ -27,8 +27,8 @@ categories: jekyll update
 <img src="/images/folder.png">
 <br/><br/>
 
-2. 나의 github.io 폴더에 붙여넣기
-[사용자명 .github.io 폴더]
+2. 나의 github.io 폴더에 붙여넣기<br/>
+[사용자명 .github.io 폴더]<br/>
 붙여넣기 했을때 겹치는 파일이 있다면 모두 대치하기 버튼
 
 <img src="/images/paste.png">
