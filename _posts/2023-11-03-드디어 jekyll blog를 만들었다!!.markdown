@@ -13,19 +13,19 @@ categories: jekyll update
 
 <img src="/images/monos.png">
 
-<p align= "center"> Homepage 버튼을 눌러 Github 페이지에 들어간다. <br/>
+<p align= "center"> Homepage 버튼을 눌러 Github 페이지에 들어간다. <br/><br/><br/>
 
 <img src="/images/download.png">
 
 
-<p align= "center"> <>Code를 클릭하여 Download ZIP을 누르고 파일 다운받기<br/>
+<p align= "center"> <>Code를 클릭하여 Download ZIP을 누르고 파일 다운받기<br/><br/><br/>
 
 ## 두번째, 테마 적용
 
 1. 다운받은 폴더 열어서 전체 복사
 
 <img src="/images/folder.png">
-<br/><br/>
+<br/><br/><br/>
 
 2. 나의 github.io 폴더에 붙여넣기<br/>
 [사용자명 .github.io 폴더]<br/>
