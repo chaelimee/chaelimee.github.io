@@ -3,6 +3,7 @@ layout: post
 title:  "Jekyll을 사용하여 블로그 만들기"
 date:   2023-11-03 17:09:29 +0900
 categories: jekyll update
+published: true
 ---
 
 ## 첫번째, 테마 설정 및 다운로드 <br/>
