@@ -1,8 +1,0 @@
-# in main project root folder
-# git local config에 submodule을 인지시킴
-# 명령 전후로 'git config --list --local'를 확인해 보자
-git  init
-# clone submodules
-git  update
-# checkout master each sub project ... (*)
-git  foreach git checkout master
