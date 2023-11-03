@@ -1,6 +1,7 @@
 title: Chaelimee's Blog
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
+published: true
 
 # for a clean URL
 permalink: :slug
