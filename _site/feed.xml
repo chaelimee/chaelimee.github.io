@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-03T22:55:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Monos</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">드디어 jekyll blog를 만들었다!!</title><link href="http://localhost:4000/Jekyll%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/" rel="alternate" type="text/html" title="드디어 jekyll blog를 만들었다!!" /><published>2023-11-03T17:09:29+09:00</published><updated>2023-11-03T17:09:29+09:00</updated><id>http://localhost:4000/Jekyll%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0</id><content type="html" xml:base="http://localhost:4000/Jekyll%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/"><![CDATA[<h2 id="첫번째-테마-설정-및-다운로드-">첫번째, 테마 설정 및 다운로드 <br /></h2>
+<p><a href="https://jamstackthemes.dev/ssg/jekyll/">Jamstack Themes</a> 또는 <a href="http://jekyllthemes.org">Jekyll Theme</a> 또는 <a href="https://jekyllthemes.io">Jekyll Themes</a> 같은 웹사이트를 통해 원하는 Jekyll 테마를 검색할 수 있습니다.</p>
+
+<p align="center"> 아래는 Jekyll Theme에서 내가 선택한 Monos 테마이다. <br />
+
+<img src="/images/monos.png" />
+
+<p align="center"> Homepage 버튼을 눌러 Github 페이지에 들어간다. <br /><br /><br />
+
+<img src="/images/download.png" />
+
+
+<p align="center"> &lt;&gt;Code를 클릭하여 Download ZIP을 누르고 파일 다운받기<br /><br /><br />
+
+## 두번째, 테마 적용 <br />
+
+1. 다운받은 폴더 열어서 전체 복사 
+
+<img src="/images/folder.png" />
+<br /><br /><br />
+
+2. 나의 github.io 폴더에 붙여넣기<br />
+[사용자명 .github.io 폴더]<br />
+붙여넣기 했을때 겹치는 파일이 있다면 모두 대치하기 버튼
+
+<img src="/images/paste.png" />
+<br /><br />
+
+3. Visual Studio Code를 열어 사용자명.github.io 파일 열기
+<br /><br />
+
+4. Gemfile에 다음과 같이 테마 추가
+
+ Gem "테마명"
+<br /><br />
+5. Bundler로 테마 설치
+bundle install
+<br /><br />
+
+6. _config.yml에 테마 적용
+</p></p></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[첫번째, 테마 설정 및 다운로드 Jamstack Themes 또는 Jekyll Theme 또는 Jekyll Themes 같은 웹사이트를 통해 원하는 Jekyll 테마를 검색할 수 있습니다.]]></summary></entry></feed>
