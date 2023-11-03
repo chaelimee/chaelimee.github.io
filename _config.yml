@@ -17,4 +17,5 @@ plugins:
 hyvor_talk_website_id: 14
 google_analytics: UA-NNNNNNNN-N
 url: "https://github.com/chaelimee/chaelimee.github.io"
-baseurl:""
+baseurl: ""
+future: true
