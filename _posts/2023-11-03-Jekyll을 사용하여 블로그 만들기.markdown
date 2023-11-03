@@ -20,7 +20,8 @@ categories: jekyll update
 
 <p align= "center"> <>Code를 클릭하여 Download ZIP을 누르고 파일 다운받기<br/><br/><br/>
 
-## 두번째, 테마 적용 <br/>
+## 두번째, 테마 적용 
+<br/>
 
 1. 다운받은 폴더 열어서 전체 복사 
 
