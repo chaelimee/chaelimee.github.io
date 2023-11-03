@@ -5,7 +5,7 @@ date:   2023-11-03 17:09:29 +0900
 categories: jekyll update
 ---
 
-## 첫번째, 테마 설정 및 다운로드
+## 첫번째, 테마 설정 및 다운로드 <br/>
 [Jamstack Themes](https://jamstackthemes.dev/ssg/jekyll/) 또는 [Jekyll Theme](http://jekyllthemes.org) 또는 [Jekyll Themes](https://jekyllthemes.io) 같은 웹사이트를 통해 원하는 Jekyll 테마를 검색할 수 있습니다.
 
 
@@ -20,9 +20,9 @@ categories: jekyll update
 
 <p align= "center"> <>Code를 클릭하여 Download ZIP을 누르고 파일 다운받기<br/><br/><br/>
 
-## 두번째, 테마 적용
+## 두번째, 테마 적용 <br/>
 
-1. 다운받은 폴더 열어서 전체 복사
+1. 다운받은 폴더 열어서 전체 복사 
 
 <img src="/images/folder.png">
 <br/><br/><br/>
@@ -36,11 +36,11 @@ categories: jekyll update
 
 3. Visual Studio Code를 열어 사용자명.github.io 파일 열기
 <br/><br/>
+
 4. Gemfile에 다음과 같이 테마 추가
 <br/><br/>
+
 5. Bundler로 테마 설치
 <br/><br/>
+
 6. _config.yml에 테마 적용
-
-
-[def]: /images/download.png
