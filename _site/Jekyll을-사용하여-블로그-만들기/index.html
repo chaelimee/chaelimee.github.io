@@ -1,69 +1,7 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Charlm" /></head>
-<style>@import url(/public/css/syntax/monokai.css);</style>
-  <title>Charlm</title>
-  <!-- <link href="/public/css/bootstrap.min.css" rel="stylesheet"> -->
-
-  <link href="/public/css/style.css" rel="stylesheet">
-  <body>
-  	<div class="container"> 
-		<div class="sidebar">
-			<div class="sidebar-item sidebar-header">
-	<div class='sidebar-brand'>
-		<a href="/about/">Charlm</a>
-	</div>
-	<p class="lead">일단 무작정 시작해보는 개발 이야기</p></div>
-
-<div class="sidebar-item sidebar-nav">
-	<ul class="nav">
-      <li class="nav-title">Pages</li>
-	  <li>
-	  	<a class="nav-item" href="/">Github</a>
-	  </li>
-	      
-	        <li>
-	        	<a class="nav-item" href="/Python/">
-	            	Python
-	            </a>
-	        </li>
-	      
-	    
- 
-	  
-	</ul>
-</div>
-
-<div class="sidebar-item sidebar-nav">
-  	<ul class="nav">
-			<li class="nav-title">Categories</li>
-	    
-	    <li>
-	    	<a class="nav-item" href="/category/#Daily">
-				<span class="name">Daily</span>
-				<span class="badge">0</span>
-	    	</a>
- 		</li>
-	    
-	    <li>
-	    	<a class="nav-item" href="/category/#School">
-				<span class="name">School</span>
-				<span class="badge">0</span>
-	    	</a>
- 		</li>
-	    
-	  </nav>
-	</ul>
-</div>
-
-<div class="sidebar-item sidebar-footer">
-	<p>Powered by <a href="https://github.com/chaelimee">chaelimee</a></p>
-</div>
-		</div>
-		<div class="content">
-			<article class="post">
+<!-- ---
+layout: default
+---
+<article class="post">
 	<header class="post-header">
 		<div class="post-title"> 
 			Jekyll을 사용하여 블로그 만들기
@@ -87,7 +25,8 @@
 
 <p align="center"> &lt;&gt;Code를 클릭하여 Download ZIP을 누르고 파일 다운받기<br /><br /><br />
 
-## 두번째, 테마 적용 <br />
+## 두번째, 테마 적용 
+<br />
 
 1. 다운받은 폴더 열어서 전체 복사 
 
@@ -105,19 +44,53 @@
 <br /><br />
 
 4. Gemfile에 다음과 같이 테마 추가
-
- Gem "테마명"
+```
+Gem "테마명"
+``` 
 <br /><br />
 5. Bundler로 테마 설치
+```
 bundle install
+```
 <br /><br />
 
-6. _config.yml에 테마 적용
+6. _config.yml파일에 다음과 같이 테마 적용
+```
+theme: "테마명"
+```
+<br /><br /><br />
+## 세번째, 로컬에서 블로그 확인하기
+<br />
+
+1. 터미널에 다음과 같이 입력
+```
+bundle exec jekyll serve
+```
+<img src="/images/exec.png" />
+<br /><br /><br />
+2. 브라우저를 열어 위의 주소를 입력하여 적용된 테마 확인
+<br /><br /><br />
+
+## 네번째, 원격에 Push하기
+로컬에서 확인 후, 원격에 Push 하기
+```
+git add .
+git commit -m "커밋 메세지"
+git push
+```
+원격에 push한 후에 사용자명.github.io에 접속한 후 확인하기
+
+
 </p></p></p>
 
 	</div>
-</article>
-		</div>
-	</div>
-  </body>
-</html>
+</article> -->
+
+
+<script src="https://utteranc.es/client.js"
+        repo="chaelimee/chaelimee.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
