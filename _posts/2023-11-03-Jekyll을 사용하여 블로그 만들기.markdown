@@ -12,7 +12,7 @@ published: true
 
 <p align= "center"> 아래는 Jekyll Theme에서 내가 선택한 Monos 테마이다. <br/>
 
-<img src="/images/monos.png">
+<img src="/images/.png">
 
 <p align= "center"> Homepage 버튼을 눌러 Github 페이지에 들어간다. <br/><br/><br/>
 

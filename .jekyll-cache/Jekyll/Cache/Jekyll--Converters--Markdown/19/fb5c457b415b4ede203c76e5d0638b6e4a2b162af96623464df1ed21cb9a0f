@@ -1,17 +1,4 @@
-<!-- ---
-layout: default
----
-<article class="post">
-	<header class="post-header">
-		<div class="post-title"> 
-			Jekyll을 사용하여 블로그 만들기
-		</div>
-		<time class="post-date dt-published" datetime="2023-11-03T17:09:29+09:00" itemprop="datePublished">2023/11/03
-		</time>		
-	</header>
-
-	<div class="post-content">
-		<h2 id="첫번째-테마-설정-및-다운로드-">첫번째, 테마 설정 및 다운로드 <br /></h2>
+I"�<h2 id="첫번째-테마-설정-및-다운로드-">첫번째, 테마 설정 및 다운로드 <br /></h2>
 <p><a href="https://jamstackthemes.dev/ssg/jekyll/">Jamstack Themes</a> 또는 <a href="http://jekyllthemes.org">Jekyll Theme</a> 또는 <a href="https://jekyllthemes.io">Jekyll Themes</a> 같은 웹사이트를 통해 원하는 Jekyll 테마를 검색할 수 있습니다.</p>
 
 <p align="center"> 아래는 Jekyll Theme에서 내가 선택한 Monos 테마이다. <br />
@@ -82,15 +69,4 @@ git push
 
 
 </p></p></p>
-
-	</div>
-</article> -->
-
-
-<script src="https://utteranc.es/client.js"
-        repo="chaelimee/chaelimee.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+:ET

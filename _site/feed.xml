@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-08T17:11:20+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Monos</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">Utternaces를 사용하여 블로그에 댓글 기능 추가하기</title><link href="http://localhost:4000/Utterances%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/" rel="alternate" type="text/html" title="Utternaces를 사용하여 블로그에 댓글 기능 추가하기" /><published>2023-11-06T17:02:29+09:00</published><updated>2023-11-06T17:02:29+09:00</updated><id>http://localhost:4000/Utterances%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90%20%EB%8C%93%EA%B8%80%20%EA%B8%B0%EB%8A%A5%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0</id><content type="html" xml:base="http://localhost:4000/Utterances%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/"><![CDATA[<h2 id="첫번째-utterances-설치하기">첫번째, <a href="https://utteranc.es">Utterances</a> 설치하기</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-08T19:27:48+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Monos</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">Google Analytics를 사용하여 블로그 분석 기능 추가하기</title><link href="http://localhost:4000/Google-Analytics%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/" rel="alternate" type="text/html" title="Google Analytics를 사용하여 블로그 분석 기능 추가하기" /><published>2023-11-08T17:26:29+09:00</published><updated>2023-11-08T17:26:29+09:00</updated><id>http://localhost:4000/Google%20Analytics%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%B6%84%EC%84%9D%20%EA%B8%B0%EB%8A%A5%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0</id><content type="html" xml:base="http://localhost:4000/Google-Analytics%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/"><![CDATA[<h2 id="첫번째-google-analytics-계정-설정하기-">첫번째, Google Analytics 계정 설정하기 <br /></h2>
+
+<p><img src="/images/GA1.png" /><br /></p>
+
+<p>일단 <a href="https://analytics.google.com">Google Analytics</a>에 접속을 하여 google 계정 로그인을 해줍니다. 그리고 측정 시작 버튼을 눌러줍니다.
+<br /><br /><br /><br /></p>
+
+<p><img src="/images/ga2.png" /><br /></p>
+<p align="center">계정 생성하는 단계에서 계정 이름을 적어줍니다. 
+<br />사용자명으로 적으면 됩니다.
+<br /><br /><br /><br />
+
+<img src="/images/ga3.png" /><br />
+다음 속성 만들기 단계에서는 속성 이름을 사용자명.github.io로 
+
+</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[첫번째, Google Analytics 계정 설정하기]]></summary></entry><entry><title type="html">Utternaces를 사용하여 블로그에 댓글 기능 추가하기</title><link href="http://localhost:4000/Utterances%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/" rel="alternate" type="text/html" title="Utternaces를 사용하여 블로그에 댓글 기능 추가하기" /><published>2023-11-06T17:02:29+09:00</published><updated>2023-11-06T17:02:29+09:00</updated><id>http://localhost:4000/Utterances%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90%20%EB%8C%93%EA%B8%80%20%EA%B8%B0%EB%8A%A5%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0</id><content type="html" xml:base="http://localhost:4000/Utterances%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/"><![CDATA[<h2 id="첫번째-utterances-설치하기">첫번째, <a href="https://utteranc.es">Utterances</a> 설치하기</h2>
 <p><a href="https://utteranc.es">Utternaces</a>에 접속해서 Install 버튼을 눌러 Utterances를 설치해줍니다.
 <br /><br /><br /><br /></p>
 
@@ -53,7 +68,7 @@
 
 <p align="center"> 아래는 Jekyll Theme에서 내가 선택한 Monos 테마이다. <br />
 
-<img src="/images/monos.png" />
+<img src="/images/.png" />
 
 <p align="center"> Homepage 버튼을 눌러 Github 페이지에 들어간다. <br /><br /><br />
 
