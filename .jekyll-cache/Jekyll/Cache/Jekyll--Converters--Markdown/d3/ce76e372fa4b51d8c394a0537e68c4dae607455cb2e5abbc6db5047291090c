@@ -1,17 +1,4 @@
-<!-- ---
-layout: default
----
-<article class="post">
-	<header class="post-header">
-		<div class="post-title"> 
-			Google Analytics를 사용하여 블로그 분석 기능 추가하기
-		</div>
-		<time class="post-date dt-published" datetime="2023-11-08T17:26:29+09:00" itemprop="datePublished">2023/11/08
-		</time>		
-	</header>
-
-	<div class="post-content">
-		<h2 id="첫번째-google-analytics-계정-설정하기-">첫번째, Google Analytics 계정 설정하기 <br /></h2>
+I"}<h2 id="첫번째-google-analytics-계정-설정하기-">첫번째, Google Analytics 계정 설정하기 <br /></h2>
 
 <p><img src="/images/GA1.png" /><br /></p>
 
@@ -63,18 +50,7 @@ layout: default
 4. 수정한 내용을 저장한 후 Github에 커밋과 푸시를 해줍니다.
 
 ## 세번째, 이 모든 설정을 마쳤다면 Google Analytics 사용하기 <br />
-추적 코em 스트립트가 head.html 파일에 정상적으로 추가가 되었다면 Google analytics 대시보드-보고서 개요-실시간 탭에서 실시간 사용자를 확인할 수 있습니다.
+추적 코그 스트립트가 head.html 파일에 정상적으로 추가가 되었다면 Google analytics 대시보드-보고서 개요-실시간 탭에서 실시간 사용자를 확인할 수 있습니다.
 
 </p></p></p></p></p></p>
-
-	</div>
-</article> -->
-
-
-<script src="https://utteranc.es/client.js"
-        repo="chaelimee/chaelimee.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+:ET
