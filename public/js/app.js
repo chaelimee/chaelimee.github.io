@@ -38,3 +38,7 @@
   $(document).ready(init);
 
 })(jQuery);
+
+<BrowserRouter basename={process.env.PUBLIC_URL}>
+  ... // 코드
+</BrowserRouter>
