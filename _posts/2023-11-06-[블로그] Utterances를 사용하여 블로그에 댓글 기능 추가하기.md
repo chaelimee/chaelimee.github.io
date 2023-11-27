@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "[블로그] Utternaces를 사용하여 블로그에 댓글 기능 추가하기"
+title:  "Utternaces를 사용하여 블로그에 댓글 기능 추가하기"
 date:   2023-11-06 17:02:29 +0900
 categories: sample
 published: true
 ---
 
 ## 첫번째, [Utterances](https://utteranc.es) 설치하기
-[Utternaces](https://utteranc.es)에 접속해서 Install 버튼을 눌러 Utterances를 설치해줍니다.
+[Utterances](https://utterances)에 접속해서 Install 버튼을 눌러 Utterances를 설치해줍니다.
 <br/><br/><br/><br/>
 
 ## 두번째, 접근 허용할 repo 선택하기
