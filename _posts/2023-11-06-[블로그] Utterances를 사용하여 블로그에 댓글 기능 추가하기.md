@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "[블로그] Utternaces를 사용하여 블로그에 댓글 기능 추가하기"
+title:  "[블로그] Utterances를 사용하여 블로그에 댓글 기능 추가하기"
 date:   2023-11-06 17:02:29 +0900
 categories: sample
 published: true
 ---
 
 ## 첫번째, [Utterances](https://utteranc.es) 설치하기
-[Utterances](https://utterances)에 접속해서 Install 버튼을 눌러 Utterances를 설치해줍니다.
+[Utterances](https://utteranc.es)에 접속해서 Install 버튼을 눌러 Utterances를 설치해줍니다.
 <br/><br/><br/><br/>
 
 ## 두번째, 접근 허용할 repo 선택하기
@@ -18,6 +18,7 @@ published: true
 <br/><br/><br/><br/>
 
 ## 세번째, 설정 페이지에서 저장소 설정하기
+
 <img src="/images/utterances 1.png">
 <br/>
 <p align= "center">repo에 [사용자명/repo이름]을 입력해줍니다.
@@ -34,6 +35,7 @@ published: true
 <br/><br/><br/><br/>
 
 ## 네번째, 적용을 위해 _layout/post.html에 추가하기
+
 <img src="/images/code.png">
 <br/>
 <p align= "center"> 코드를 복사합니다.
@@ -50,6 +52,7 @@ published: true
 변경 사항을 커밋한 후 Github 저장소에 push 합니다.
 
 ## 다섯번째, 확인해보기
+
 <img src="/images/comment.png">
 <br/>
 <p align= "center">Github page에 들어가보면 댓글 기능이 추가된 것을 볼 수 있습니다.
