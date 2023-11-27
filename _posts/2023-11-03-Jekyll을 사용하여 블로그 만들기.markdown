@@ -41,14 +41,18 @@ published: true
 <br/><br/>
 
 4. Gemfile에 다음과 같이 테마 추가
+
 ```
 Gem "테마명"
-``` 
+```
+
 <br/><br/>
 5. Bundler로 테마 설치
+
 ```
 bundle install
 ```
+
 <br/><br/>
 
 6. _config.yml파일에 다음과 같이 테마 적용
@@ -60,21 +64,28 @@ theme: "테마명"
 <br/>
 
 1. 터미널에 다음과 같이 입력
+<br>
 ```
 bundle exec jekyll serve
 ```
+<br>
 <img src="/images/exec.png">
 <br/><br/><br/>
 2. 브라우저를 열어 위의 주소를 입력하여 적용된 테마 확인
 <br/><br/><br/>
 
 ## 네번째, 원격에 Push하기
+<br>
+
 로컬에서 확인 후, 원격에 Push 하기
+<br>
+
 ```
 git add .
 git commit -m "커밋 메세지"
 git push
 ```
+<br>
 원격에 push한 후에 사용자명.github.io에 접속한 후 확인하기
 
 
