@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Utternaces를 사용하여 블로그에 댓글 기능 추가하기"
+title:  "[블로그] Utternaces를 사용하여 블로그에 댓글 기능 추가하기"
 date:   2023-11-06 17:02:29 +0900
 categories: sample
 published: true
