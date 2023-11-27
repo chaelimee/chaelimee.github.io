@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Adam Denisov
-  tagline: Developer. Designer
+  tagline: Chaelimee. Designer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
