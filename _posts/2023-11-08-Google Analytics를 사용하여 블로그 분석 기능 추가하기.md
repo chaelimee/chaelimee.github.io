@@ -38,7 +38,6 @@ published: true
 <p align= "center">7. 다음은 데이터 스트림을 설정할 차례입니다. 웹사이트 URL 항목에 자신의 깃허브 링크를 작성한 후 스트림이름을 적어줍니다. 
 <br/><br/><br/><br/>
 
-___
 ## 두번째, Jekyll 블로그에 추적 코드 추가하기 
 
 <br/>
@@ -54,12 +53,14 @@ ___
 
 <img src="/images/head.png"><br/>
 저같은 경우에는 _config.yml 파일에 analytics 관련 설정이 없어서 직접 HTML 파일을 설정했습니다.
-<br/><br/>
+<br><br>
 
 4. 수정한 내용을 저장한 후 Github에 커밋과 푸시를 해줍니다.
+<br><br>
+
 
 ## 세번째, 이 모든 설정을 마쳤다면 Google Analytics 사용하기 
 
-<br/>
+<br>
 추적 코em 스트립트가 head.html 파일에 정상적으로 추가가 되었다면 Google analytics 대시보드-보고서 개요-실시간 탭에서 실시간 사용자를 확인할 수 있습니다.
 
