@@ -45,18 +45,19 @@ published: true
 
 <img src="/images/ju.png">
 <br/>
-<p align= "center"> 각자 사용하는 테마마다 disqus를 사용하는 것도 있고, 사용하지 않는 테마도 있는데 만약 disqus를 사용한다면 주석처리를 해줍니다. 저는 disqus를 사용하진 않지만, 기존에 있던 코드들을 모두 주석처리해주었습니다.
+<p align= "center"> 각자 사용하는 테마마다 disqus를 사용하는 것도 있고, 사용하지 않는 테마도 있는데 만약 disqus를 사용한다면 주석처리를 해줍니다.
+<br/>저는 disqus를 사용하진 않지만, 기존에 있던 코드들을 모두 주석처리해주었습니다.
 <br/><br/><br/><br/>
 
 <img src="/images/add code.png">
 <br/>
 <p align= "center">아까 복사했던 Utterances 스크립트를 추가합니다.<br/>
 변경 사항을 커밋한 후 Github 저장소에 push 합니다.
-<br>
+<br/><br/>
 
 ## 다섯번째, 확인해보기
 
-<br>
+<br/>
 <img src="/images/comment.png">
 <br/>
 <p align= "center">Github page에 들어가보면 댓글 기능이 추가된 것을 볼 수 있습니다.
