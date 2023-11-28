@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "[블로그] Google Analytics를 사용하여 블로그 분석 기능 추가하기"
+date:   2023-11-08 17:26:29 +0900
+categories: sample
+published: true
+---
+
+## 첫번째, Google Analytics 계정 설정하기 <br/>
+
+<img src="/images/ga1.png"><br/>
+
+1. 일단 [Google Analytics](https://analytics.google.com)에 접속을 하여 google 계정 로그인을 해줍니다. 그리고 측정 시작 버튼을 눌러줍니다.
+<br/><br/><br/><br/>
+
+<img src="/images/ga2.png"><br/>
+<p align= "center">2. 계정 생성하는 단계에서 계정 이름을 적어줍니다. 
+<br/>사용자명으로 적으면 됩니다.
+<br/><br/><br/><br/>
+
+<img src="/images/ga3.png"><br/>
+<p align= "center">3. 다음 속성 만들기 단계에서는 속성 이름을 사용자명.github.io로 설정합니다. 그리고 보고 시간대와 통화는 '대한민국/대한민국 원(₩)'으로 설정합니다.
+<br/><br/><br/><br/>
+
+<img src="/images/ga4.png"><br/>
+<p align= "center">4. 자신의 옵션대로 업종 카테고리를 선택하고 비즈니스 규모를 선택합니다.
+<br/><br/><br/><br/>
+
+<img src="/images/ga5.png"><br/>
+<p align= "center">5. 여러 항목 중 자신의 비즈니스 목표를 선택합니다.
+<br/><br/><br/><br/>
+
+<img src="/images/ga6.png"><br/>
+<p align= "center">6. 이제 데이터를 수집할 준비가 되었습니다. 플랫폼을 선택하는데, 저는 웹에서 사용할 것이기 때문에 웹을 선택했습니다.
+<br/><br/><br/><br/>
+
+<img src="/images/new.png"><br/>
+<p align= "center">7. 다음은 데이터 스트림을 설정할 차례입니다. 웹사이트 URL 항목에 자신의 깃허브 링크를 작성한 후 스트림이름을 적어줍니다. 
+<br/><br/><br/><br/>
+
+## 두번째, Jekyll 블로그에 추적 코드 추가하기 
+
+<br/>
+1. VSCode를 열어 _config.yml 파일을 열어 analytics 관련 설정이 있는지 찾아봅니다. 만약 관련 설정이 있다면 적절하게 수정해줍니다.
+<br/><br/>
+
+2. _config.yml 파일에 Google Analytics 추적 코드를 포함하는 설정이 없다면 직접 HTML 파일을 설정해야하는데요, 보통 _includes 폴더 내에있는 head.html 파일을 사용합니다.
+<br/><br/>
+
+<img src="/images/codee.png"><br/>
+3. head.html 파일을 열고 아까 생성한 코드를 복사하여 </head> 태그 앞에 붙여넣습니다.
+<br/><br/><br/><br/>
+
+<img src="/images/head.png"><br/>
+저같은 경우에는 _config.yml 파일에 analytics 관련 설정이 없어서 직접 HTML 파일을 설정했습니다.
+<br><br>
+
+4. 수정한 내용을 저장한 후 Github에 커밋과 푸시를 해줍니다.
+<br><br>
+
+
+## 세번째, 이 모든 설정을 마쳤다면 Google Analytics 사용하기 
+
+<br>
+추적 코em 스트립트가 head.html 파일에 정상적으로 추가가 되었다면 Google analytics 대시보드-보고서 개요-실시간 탭에서 실시간 사용자를 확인할 수 있습니다.
+
