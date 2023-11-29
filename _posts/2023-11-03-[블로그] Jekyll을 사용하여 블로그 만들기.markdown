@@ -45,6 +45,7 @@ published: true
 <br/><br/>
 
 4. Gemfile에 다음과 같이 테마 추가
+<br/>
 
 ```
 Gem "테마명"
@@ -53,6 +54,7 @@ Gem "테마명"
 <br><br>
 
 5. Bundler로 테마 설치
+<br/>
 
 ```
 bundle install
@@ -61,6 +63,7 @@ bundle install
 <br><br>
 
 6. _config.yml파일에 다음과 같이 테마 적용
+<br/>
 
 ```
 theme: "테마명"
