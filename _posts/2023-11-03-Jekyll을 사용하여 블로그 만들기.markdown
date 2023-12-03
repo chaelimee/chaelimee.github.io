@@ -6,7 +6,7 @@ categories: Blog_Making
 published: true
 ---
 
-## 첫번째, 테마 설정 및 다운로드 
+# 첫번째, 테마 설정 및 다운로드 
 <br>
 [Jamstack Themes](https://jamstackthemes.dev/ssg/jekyll/) 또는 [Jekyll Theme](http://jekyllthemes.org) 또는 [Jekyll Themes](https://jekyllthemes.io) 같은 웹사이트를 통해 원하는 Jekyll 테마를 검색할 수 있습니다.
 
@@ -15,36 +15,36 @@ published: true
 
 <img src="/images/monos.png">
 
-위는 Jekyll Theme에서 내가 선택한 Monos 테마이다. 
+위 사진은 Jekyll Theme에서 제가 선택한 Monos 테마입니다. 원하는 테마를 고르셨다면, 이 과정을 똑같이 따라해주시면 됩니다!  
  <br/>
-Homepage 버튼을 눌러 Github 페이지에 들어간다. <br><br><br>
+원하는 테마를 고르셨다면 Homepage 버튼을 눌러 Github 페이지에 들어가줍니다. <br><br><br><br>
 
 <img src="/images/download.png">
 
-<>Code를 클릭하여 Download ZIP을 누르고 파일 다운받기<br><br><br>
+< >Code를 클릭하여 Download ZIP을 누르고 파일을 다운 받아주세요<br><br><br>
 
-## 두번째, 테마 적용 
-#### 다운받은 폴더 열어서 전체 복사 
+# 두번째, 테마 적용 
+### 1️⃣ 다운받은 폴더를 열어서 전체 복사를 해줍니다.
 
 <img src="/images/folder.png">
 
+<br><br>
 
-
-#### 나의 github.io 폴더에 붙여넣기<br>
+### 2️⃣ 미리 생성해놓은 github.io 폴더에 아까 복사한 파일들을 붙여넣기 해줍니다. <br>
 
 [사용자명 .github.io 폴더]<br>
 
-붙여넣기 했을때 겹치는 파일이 있다면 모두 대치하기 버튼
+만약, 붙여넣기 했을때 겹치는 파일이 있다면 모두 대치하기 버튼을 눌러주세요 !!
 
 
 <img src="/images/paste.png">
 <br><br>
 
-#### Visual Studio Code를 열어 사용자명.github.io 파일 열기
+### 3️⃣ Visual Studio Code를 열어 사용자명.github.io 파일을 열어주세요.
 
 <br><br>
 
-#### Gemfile에 다음과 같이 테마 추가
+###  4️⃣ Gemfile에 다음과 같이 테마를 추가해줍니다.
 <br>
 
 ```
@@ -53,7 +53,7 @@ Gem "테마명"
 
 <br><br>
 
-#### Bundler로 테마 설치
+###  5️⃣ 터미널을 열어 Bundler로 테마를 설치해줍니다.
 <br/>
 
 ```
@@ -62,7 +62,7 @@ bundle install
 
 <br><br>
 
- _config.yml파일에 다음과 같이 테마 적용
+### 6️⃣ _config.yml 파일에 다음과 같이 테마를 적용해주세요.
 <br>
 
 ```
@@ -71,32 +71,29 @@ theme: "테마명"
 
 <br><br><br>
 
-## 세번째, 로컬에서 블로그 확인하기
+# 세번째, 로컬에서 블로그 확인하기
 
-<br>
 
-#### 터미널에 다음과 같이 입력
-<br>
+
+### 터미널에 다음과 같이 입력해줍니다.
+
 
 ```
 bundle exec jekyll serve
 ```
 
-<br>
+<br><br><br>
 <img src="/images/exec.png">
-<br><br><br>
-
-#### 브라우저를 열어 위의 주소를 입력하여 적용된 테마 확인
-
-<br><br><br>
-
-## 네번째, 원격에 Push하기
-
 <br>
 
-로컬에서 확인 후, 원격에 Push 하기
+### 그럼 이러한 내용이 뜨면서 Server address가 나옵니다.
+### 브라우저를 열어 위의 주소를 입력하면 적용된 테마를 확인할 수 있습니다.
 
-<br>
+<br><br><br>
+
+# 네번째, 원격에 Push하기
+
+### 로컬에서 정상적으로 블로그가 적용된 것이 확인되었다면, 커밋을 하고 원격에 push 해주시면 됩니다.
 
 ```
 git add .
@@ -104,8 +101,11 @@ git commit -m "커밋 메세지"
 git push
 ```
 
-<br>
+<br><br>
 
-원격에 push한 후에 사용자명.github.io에 접속한 후 확인하기
+원격으로 push한 후에 사용자명.github.io에 접속해보면 블로그 테마가 적용되어있는 모습을 볼 수 있습니다. 이 과정에서는 인내심이 필요합니다. Github와 블로그가 연동되는데에 시간이 걸릴 수 있습니다. 바로 적용되지 않는다고 화내지 마세요!! 조금만 기다리면 적용이 된 모습을 볼 수 있습니다. 
+<br><br>
+
+그렇다면 이것을 시작으로 함께 도움이 되는 블로그를 만들어보아요 ㅎㅎ!!
 
 
