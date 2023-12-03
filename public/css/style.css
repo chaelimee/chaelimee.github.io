@@ -1,7 +1,12 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 @import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
 @import url(syntax/monokai.css);
-
+@font-face {
+    font-family: 'IBMPlexSansKR-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -29,8 +34,8 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Roboto", "Nanum Gothic";
-  --font-family-serif: "Nanum Myeongjo";
+  --font-family-sans-serif: "Roboto", "IBMPlexSansKR-Regular";
+  --font-family-serif: "IBMPlexSansKR-Regular";
 }
 
 * {
@@ -49,7 +54,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Gelasio', 'Nanum Myeongjo', serif;
+	font-family: 'Gelasio', 'IBMPlexSansKR-Regular', serif;
 	color: #2c3e50;
 }
 
@@ -132,7 +137,7 @@ code {
 
 .nav-title {
 	font-size: 100%;
-	font-family: "Noto Sans";
+	font-family: "IBMPlexSansKR-Regular";
 	text-transform: uppercase;
 	border-bottom: 1px solid gray;
 	margin-bottom: 5px;
@@ -140,7 +145,7 @@ code {
 
 a.nav-item {
 	font-size: 120%;
-	font-family: "Noto Sans";
+	font-family: "IBMPlexSansKR-Regular";
 	text-transform: capitalize;
 	color: #aaa;
 }
@@ -232,7 +237,7 @@ article h3,
 article h4,
 article h5,
 article h6 {
-	font-family: "Roboto", "Nanum Gothic";
+	font-family: "Roboto", "IBMPlexSansKR-Regular";
 	color: #333;
   	margin-bottom: 0;
 }
