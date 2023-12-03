@@ -2,7 +2,7 @@
 layout: post
 title:  "[블로그] Google sitemap을 이용하여 내 블로그를 구글 검색에 노출시키기"
 date:   2023-11-13 17:18:29 +0900
-categories: sample
+categories: 블로그_제작
 published: true
 ---
 
