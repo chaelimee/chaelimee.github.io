@@ -1,12 +1,6 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
-@import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
 @import url(syntax/monokai.css);
-@font-face {
-    font-family: 'IBMPlexSansKR-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&family=Mukta:wght@600&display=swap');
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -34,8 +28,9 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Roboto", "IBMPlexSansKR-Regular";
-  --font-family-serif: "IBMPlexSansKR-Regular";
+  --font-family-sans-serif: 'IBM Plex Sans KR', sans-serif;
+  --font-family-serif: 'Mukta', sans-serif;
+
 }
 
 * {
@@ -54,7 +49,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Gelasio', 'IBMPlexSansKR-Regular', serif;
+	font-family: 'Mukta', 'IBM Plex Sans KR', sans-serif;
 	color: #2c3e50;
 }
 
@@ -78,7 +73,7 @@ pre {
 }
 
 code {
-	font-family: "Menlo", "Consolas", monospace;
+	font-family: 'Mukta', 'IBM Plex Sans KR', sans-serif;
 	font-size: 0.8em;
 	margin: 0px;
 }
@@ -118,7 +113,7 @@ code {
 
 .sidebar-brand > a {
 	font-size: 300%;
-	font-family: 'Gelasio';
+	font-family: 'Mukta';
 	color: #fff;
 }
 
@@ -137,7 +132,7 @@ code {
 
 .nav-title {
 	font-size: 100%;
-	font-family: "IBMPlexSansKR-Regular";
+	font-family: "IBM Plex Sans KR";
 	text-transform: uppercase;
 	border-bottom: 1px solid gray;
 	margin-bottom: 5px;
@@ -145,7 +140,7 @@ code {
 
 a.nav-item {
 	font-size: 120%;
-	font-family: "IBMPlexSansKR-Regular";
+	font-family: "IBM Plex Sans KR";
 	text-transform: capitalize;
 	color: #aaa;
 }
@@ -237,7 +232,7 @@ article h3,
 article h4,
 article h5,
 article h6 {
-	font-family: "Roboto", "IBMPlexSansKR-Regular";
+	font-family: 'Mukta', 'IBM Plex Sans KR';
 	color: #333;
   	margin-bottom: 0;
 }
@@ -288,14 +283,14 @@ header.home {
 
 footer {
 	padding-top: 15px;
-	font-family: 'Ubuntu';
+	font-family: 'Mukta';
 }
 
 .sidebar-footer {
 	margin-top: 80px;
 	font-size: 0.75em;
 	font-weight: lighter;
-	font-family: "Roboto";
+	font-family: "Mukta";
 	line-height: 1.5;
 }
 
