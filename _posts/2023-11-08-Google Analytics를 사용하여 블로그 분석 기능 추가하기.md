@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[블로그] Google Analytics를 사용하여 블로그 분석 기능 추가하기"
+title:  "Google Analytics를 사용하여 블로그 분석 기능 추가하기"
 date:   2023-11-08 17:26:29 +0900
-categories: 블로그_제작
+categories: Blog_Making
 published: true
 ---
 

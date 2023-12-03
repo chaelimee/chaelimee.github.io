@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[블로그] Utterances를 사용하여 블로그에 댓글 기능 추가하기"
+title:  "Utterances를 사용하여 블로그에 댓글 기능 추가하기"
 date:   2023-11-06 17:02:29 +0900
-categories: 블로그_제작
+categories: Blog_Making
 published: true
 ---
 
