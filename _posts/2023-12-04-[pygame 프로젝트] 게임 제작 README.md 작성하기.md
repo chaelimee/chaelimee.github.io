@@ -74,11 +74,16 @@ ____
 
 ![pochacco](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MTZfMTE5%2FMDAxNjYwNjUzNDExOTUz.6FsHp7kqcYZ2r8RlTI9_MLVPxgMKiJaalOOx9ZKT9BAg.SUzbl4huke9geGNOhNXzLj_pmbMRWR_5YuTylowIYNYg.GIF.alsrn8046%2F%25BE%25C8%25B3%25F3.gif&type=a340)
 
+<img src="/images/friends.png">
+
 ```
 
 ![대체 텍스트](이미지 경로 혹은 링크)
 ![pochacco](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MTZfMTE5%2FMDAxNjYwNjUzNDExOTUz.6FsHp
 7kqcYZ2r8RlTI9_MLVPxgMKiJaalOOx9ZKT9BAg.SUzbl4huke9geGNOhNXzLj_pmbMRWR_5YuTylowIYNYg.GIF.alsrn8046%2F%25BE%25C8%25B3%25F3.gif&type=a340)
+
+
+<img src="/images/friends.png">
 
 ```
 <br><br>
@@ -164,4 +169,4 @@ ___
 
 <br><br>
 
-이렇게 READMD.md를 꾸미는 몇가지 방법에 대해 알아봤습니다. 이외에도 다양한 README.md 꾸미기 방법이 존재하는데요, 구글링을 통해 더 다양하게 적용해보셨으면 좋갰습니다. 
+이렇게 README.md를 꾸미는 몇가지 방법에 대해 알아봤습니다. 이외에도 다양한 README.md 꾸미기 방법이 존재하는데요, 구글링을 통해 더 다양하게 적용해보셨으면 좋갰습니다. 
